@@ -9,15 +9,27 @@ Cringe maybe... so what?
 
 Feel free to add anything your heart desire.
 
-1.  Webpage with simple time management tools
+1. booking system
+    - frontend to make appointment
+    - form to enter detail
+    - email notification 
+    - alert of RDV
+    - ...
+
+1. Webpage with simple time management tools
     - pomodoro timer
     - eye strain timer
     - hydrate timer
     - move timer
     - ephemeral, simple by design task and todo 
     - reminder to stay on task
-    ...
-2. come up with your ideas => pull request are welcome
+    - ...
 
+1. Webpage for small business
+    - content
+    - services
+    - contact
+
+1. come up with your ideas => pull request are welcome
 
 TODO: how to make your first code contribution
