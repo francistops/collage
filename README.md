@@ -1,5 +1,5 @@
 # collage
-## don't espect anything from it, but it's a start
+## don't expect anything from it, but it's a start
 
 The idea is to collabe on something anything and in the process get use to github workflow.
 mistake are allowed and even encourage. there noting sensitive or critical here and the real reward is the pain and suffering that eventually transform to knowlege and mastery. ( no promises tho :p )
