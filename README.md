@@ -1,11 +1,12 @@
 # collage
 ## don't expect anything from it, but it's a start
 
-The idea is to collabe on something anything and in the process get use to github workflow.
-mistake are allowed and even encourage. there noting sensitive or critical here and the real reward is the pain and suffering that eventually transform to knowlege and mastery. ( no promises tho :p )
-With that said, it may be beneficial to you if try and learn good habit and practice, but you can worry about it later go on make a pull request to main! (if that last sentence did not compute for you plz, do not worry! you'll tell me later. Go on go forth let make stupid things carefree without any espectations of someday this will blosson!
+The idea is to collab on something anything and in the process get use to git workflow.
+**First, mistakes are allowed and even encourage.** 
+Second, There noting sensitive or critical to you cannot *break* here ::devil and the real reward is the pain and suffering that eventually transform to knowlege and mastery. ( no promises tho :p )
+With that said, it may be beneficial to you if you try and learn good habit and practice, but you can worry about it later go on make a pull request! (if that last sentence did not compute for you plz, do not worry! you'll learn it part of the journey. Go on, go forth let make stupid things carefree without any expectations of someday this will blosson!
 
-Cringe maybe... so what?
+Cringe maybe...
 
 Feel free to add anything your heart desire.
 
